@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606700693485.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "277304409",
+    "id" : "293362F8",
+    "lastKnownWriteTime" : 1606700900,
+    "last_content_update" : 1606700900088,
+    "path" : "C:/Users/Usuario/Desktop/Machine Learning/Codigos/Sección 1 Template de preprocesado de datos (Cod_python y R)/Preprocesado_datos_R/Datos_faltantes.R",
+    "project_path" : "Datos_faltantes.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

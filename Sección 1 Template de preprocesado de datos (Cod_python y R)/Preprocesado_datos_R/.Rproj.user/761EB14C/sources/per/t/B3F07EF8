@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606700691430.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3255431321",
+    "id" : "B3F07EF8",
+    "lastKnownWriteTime" : 1606700885,
+    "last_content_update" : 1606700885192,
+    "path" : "C:/Users/Usuario/Desktop/Machine Learning/Codigos/Sección 1 Template de preprocesado de datos (Cod_python y R)/Preprocesado_datos_R/datos_categoricos.R",
+    "project_path" : "datos_categoricos.R",
+    "properties" : {
+        "cursorPosition" : "8,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

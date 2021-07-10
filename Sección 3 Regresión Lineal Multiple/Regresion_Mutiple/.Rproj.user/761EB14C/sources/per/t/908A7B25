@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1608605414853.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4071047233",
+    "id" : "908A7B25",
+    "lastKnownWriteTime" : 1609384899,
+    "last_content_update" : 1609384899292,
+    "path" : "C:/Users/Usuario/Desktop/Machine Learning/Codigos/Sección 3 Regresión Lineal Multiple/Regresion_Mutiple/Regresion_Lin_Multiple.R",
+    "project_path" : "Regresion_Lin_Multiple.R",
+    "properties" : {
+        "cursorPosition" : "22,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
